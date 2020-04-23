@@ -1,4 +1,7 @@
 # cinemo-metar
 cinemo-metar
 
-This is the test create by me on 22/April/2020
+This is an app to get information from https://tgftp.nws.noaa.gov/
+
+
+https://en.wikipedia.org/wiki/METAR 
